@@ -1,0 +1,116 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  body {
+    background-color: #e03e6e;
+    font-size: 25px;
+  }
+  img {
+  
+    height: 300px; 
+    width: 300px;
+  }
+  
+  p {
+  
+    background-color: #bd005b;
+    font-family: cursive;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  #about-section {
+  
+    height: auto;
+    width: 100%;
+  }
+  
+  #my-photo img {
+  
+    height: 220px;
+    width: 220px;
+  }
+  
+  #about-profile {
+  
+    color: #59e03e;
+    width: 80%;
+  }
+  
+  .text-center {
+  
+    text-align: center;
+  }
+  
+  #education {
+  
+    width: 100%;
+  }
+  
+  #education img {
+    width: 1000px;
+    height: 500px;
+  }
+  
+  .section-heading {
+   color: #00e0e0;
+   font-size: 33px;
+  }
+  
+  .col-2 {
+  
+    float:left ;
+    margin: 20px;
+    padding: 20px;
+    width: 45%;
+  }
+  
+  #favorite {
+  
+    border: 5px dotted blue;
+  }
+  
+  #favorites {
+   margin-top: 20px;
+  }
+  
+  .skill-display {
+  
+    padding: 5px;
+  }
+  
+  .col-3 {
+  
+    float: left;
+    width: 30%;
+  }
+  
+  #skills {
+  
+    width: 100%;
+  }
+  
+  .skill-progress {
+  
+    width: 11rem;
+    height: 2rem;
+    border-width: 1px;
+    background-color: #6f0fff;
+    border-radius: 1rem;
+    margin: 10px;
+  }
+  
+  .skill-name span {
+  
+    color: #00fbff;
+    margin-left: 10px;
+    vertical-align: middle;
+    margin-top: 20px;
+  }
+
+  #extrainfo {
+    color: black;
+    font-style: normal;
+    background-color: #6f0fff;
+  }
